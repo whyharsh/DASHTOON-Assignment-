@@ -41,4 +41,4 @@ You can add your own images to try out.
 
 ## Conclusion
 
-This notebook serves as a starting point for implementing neural style transfer with PyTorch. Further work is required to finalize the implementation and apply it to specific images.
+Neural Style Transfer finds applications in various domains, from artistic expression to content personalization. However, its efficiency and success heavily depend on fine-tuning parameters, layer choices, and the choice of optimization algorithms. You can play around with content and style layers.
